@@ -16,17 +16,17 @@ Comparisons	Baseline methods table
 Results	Quantitative metrics + improvement %
 Conclusions	Key findings + future work
 
-Installation
+
 # Clone into your opencode skills directory
 cd ~/.opencode/skills
 git clone https://github.com/<your-username>/paper-summarizer.git
 
-Usage
+# Usage
 Simply provide a PDF paper and ask:
 帮我总结这篇论文
 or in English:
 Summarize this paper
 
-Dependencies
+# Dependencies
 pdf skill (for PDF text extraction)
 Web search (for SCI zone lookup via LetPub/CAS JCR)
